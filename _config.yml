@@ -1,0 +1,28 @@
+name: 'Jophiel '
+favicon: null
+layout_spectrum: 0.6477544924709946
+typography_spectrum: 0.42131820949725807
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7860090734902769
+  lightness: 0.6129359055776149
+  saturation: 0.2944931525271386
+  rhythmicContrast: 0.19243218121118844
+purpose: []
