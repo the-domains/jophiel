@@ -4,11 +4,18 @@
         <description><![CDATA[Jophiel Silvestrone]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 23:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 23:24:58 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/749e0577-9056-4da3-b5c8-88f3383bd2f3.jpg">]]></description>
+            <link>http://jophiel.co/0bb157cf-1ac4-4ad9-abe4-6523246406c1/index.html</link>
+            <guid isPermaLink="false">0bb157cf-1ac4-4ad9-abe4-6523246406c1</guid>
+            <pubDate>Thu, 18 Feb 2016 23:18:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Recommendation from Douglas McShane, Owner / Acorn Technologies]]></title>
-            <description><![CDATA[<article><h1>Recommendation from Douglas McShane, Owner / Acorn Technologies</h1><p>"Without question, one of the sharpest individuals I have had the pleasure of working with. Excellent all-around grasp of the "big 3" for Web: art acumen (the actual design), software use/programming knowledge (the mechanical), and truly understanding the business and message (the communication). Rare combination of talent/skill-sets. I am glad to endorse."</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eae08f4-fd6e-4e69-9cbe-eb0af9c78d37.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Recommendation from Douglas McShane, Owner / Acorn Technologies</h1><p>"Without question, one of the sharpest individuals I have had the pleasure of working with. Excellent all-around grasp of the "big 3" for Web: art acumen (the actual design), software use/programming knowledge (the mechanical), and truly understanding the business and message (the communication). Rare combination of talent/skill-sets. I am glad to endorse."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbe42946b6d32b03cd96dc7c81f0798b2023bf54.jpg"></article>]]></description>
             <link>http://jophiel.co/ca667f40-d56c-43ff-a77a-9cbf471f235f/index.html</link>
             <guid isPermaLink="false">ca667f40-d56c-43ff-a77a-9cbf471f235f</guid>
             <pubDate>Thu, 18 Feb 2016 23:14:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://jophiel.co/d3a7bf4e-c770-4f7f-b8fb-493bb6af3a38/index.html</link>
             <guid isPermaLink="false">d3a7bf4e-c770-4f7f-b8fb-493bb6af3a38</guid>
             <pubDate>Thu, 18 Feb 2016 22:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38b0f7c6-0d1a-4a29-9e0d-47763e8e62da.jpg">]]></description>
-            <link>http://jophiel.co/78699a7e-1de4-41e0-beca-02e6a87752e8/index.html</link>
-            <guid isPermaLink="false">78699a7e-1de4-41e0-beca-02e6a87752e8</guid>
-            <pubDate>Thu, 18 Feb 2016 22:30:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
