@@ -4,8 +4,15 @@
         <description><![CDATA[Jophiel Silvestrone]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 23:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 23:12:45 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Recommendation from Douglas McShane, Owner / Acorn Technologies]]></title>
+            <description><![CDATA[<article><h1>Recommendation from Douglas McShane, Owner / Acorn Technologies</h1><p>"Without question, one of the sharpest individuals I have had the pleasure of working with. Excellent all-around grasp of the "big 3" for Web: art acumen (the actual design), software use/programming knowledge (the mechanical), and truly understanding the business and message (the communication). Rare combination of talent/skill-sets. I am glad to endorse."</p></article>]]></description>
+            <link>http://jophiel.co/ca667f40-d56c-43ff-a77a-9cbf471f235f/index.html</link>
+            <guid isPermaLink="false">ca667f40-d56c-43ff-a77a-9cbf471f235f</guid>
+            <pubDate>Thu, 18 Feb 2016 23:12:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d29af5de-e5ea-43a9-99f6-cdb32c39f9bf.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jophiel.co/78699a7e-1de4-41e0-beca-02e6a87752e8/index.html</link>
             <guid isPermaLink="false">78699a7e-1de4-41e0-beca-02e6a87752e8</guid>
             <pubDate>Thu, 18 Feb 2016 22:30:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6885d6ad-36fc-43c6-aff4-01d7899973e6.jpg">]]></description>
-            <link>http://jophiel.co/7c962de9-d1d9-4443-be63-414eb76e565f/index.html</link>
-            <guid isPermaLink="false">7c962de9-d1d9-4443-be63-414eb76e565f</guid>
-            <pubDate>Thu, 18 Feb 2016 22:28:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
