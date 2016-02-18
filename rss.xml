@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jophiel Silvestrone]]></title>
         <description><![CDATA[Jophiel Silvestrone]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 22:24:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 22:29:21 GMT</lastBuildDate>
+        <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6885d6ad-36fc-43c6-aff4-01d7899973e6.jpg">]]></description>
+            <link>http://jophiel.co/7c962de9-d1d9-4443-be63-414eb76e565f/index.html</link>
+            <guid isPermaLink="false">7c962de9-d1d9-4443-be63-414eb76e565f</guid>
+            <pubDate>Thu, 18 Feb 2016 22:28:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Copyright 2016 Jophiel Silvestrone | 406-208-8733 | j@skypnt.com</p>]]></description>
-            <link>undefined0ae737a7-3039-46d6-82c5-19f89a7e8a2e/index.html</link>
+            <link>http://jophiel.co/0ae737a7-3039-46d6-82c5-19f89a7e8a2e/index.html</link>
             <guid isPermaLink="false">0ae737a7-3039-46d6-82c5-19f89a7e8a2e</guid>
             <pubDate>Thu, 18 Feb 2016 22:24:30 GMT</pubDate>
         </item>
