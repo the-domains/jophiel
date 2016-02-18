@@ -4,23 +4,21 @@
         <description><![CDATA[Jophiel Silvestrone]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 22:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 22:20:24 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e58204bb-21af-48d6-b84c-ae01f5b71398.jpg">]]></description>
+            <link>http://jophiel.co/ff7eb035-3d5b-40ec-baf2-f5902717d06e/index.html</link>
+            <guid isPermaLink="false">ff7eb035-3d5b-40ec-baf2-f5902717d06e</guid>
+            <pubDate>Thu, 18 Feb 2016 22:19:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e50d5f-6cef-4489-9c0f-e6e253e1fb2c.jpg">]]></description>
             <link>http://jophiel.co/46aeb6fd-3ff8-40bf-8cef-bb69eee29e81/index.html</link>
             <guid isPermaLink="false">46aeb6fd-3ff8-40bf-8cef-bb69eee29e81</guid>
             <pubDate>Thu, 18 Feb 2016 22:17:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jophiel Silvestrone]]></title>
-            <description><![CDATA[<article><h1>Jophiel Silvestrone</h1><p>Jophiel grew up on a ranch in Paradise Valley, Montana near Chico Hot Springs. Working on the ranch instilled work ethic and self motivation. Filled with this drive, Jophiel started mowing the local school's yards twice a month throughout the summers, at the age of 12.
-
-He moved to Billings in 2004, where he has been deeply involved in the local business community ever since. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/682f63d3b2819440a9b589050c290caff180c0ef.jpg"></article>]]></description>
-            <link>http://jophiel.co/09b071dc-7e06-4bed-86e7-9e7c79667658/index.html</link>
-            <guid isPermaLink="false">09b071dc-7e06-4bed-86e7-9e7c79667658</guid>
-            <pubDate>Thu, 18 Feb 2016 22:11:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
