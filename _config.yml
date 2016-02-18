@@ -1,6 +1,6 @@
 name: 'Jophiel '
 favicon: null
-layout_spectrum: 0.2932
+layout_spectrum: 0.49692
 typography_spectrum: 0.42131820949725807
 title: Jophiel Silvestrone
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9f9784'
     - '#b90317'
     - '#f18624'
-  brandStrength: 0.1875
+  brandStrength: 1
   lightness: 0.875
   saturation: 0.2944931525271386
   rhythmicContrast: 0.19243218121118844
