@@ -4,7 +4,7 @@
         <description><![CDATA[Jophiel Silvestrone]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 23:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 00:01:31 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jophiel.co/0bb157cf-1ac4-4ad9-abe4-6523246406c1/index.html</link>
             <guid isPermaLink="false">0bb157cf-1ac4-4ad9-abe4-6523246406c1</guid>
             <pubDate>Thu, 18 Feb 2016 23:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>© Copyright 2016 - Jophiel Silvestrone </p>]]></description>
+            <link>http://jophiel.co/0ae737a7-3039-46d6-82c5-19f89a7e8a2e/index.html</link>
+            <guid isPermaLink="false">0ae737a7-3039-46d6-82c5-19f89a7e8a2e</guid>
+            <pubDate>Thu, 18 Feb 2016 23:58:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jophiel.co/5f392f73-c877-468d-ab60-dfe0274a6b35/index.html</link>
             <guid isPermaLink="false">5f392f73-c877-468d-ab60-dfe0274a6b35</guid>
             <pubDate>Thu, 18 Feb 2016 23:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6899f4f1-ec00-4315-aa4a-4803b5f3649e.jpg">]]></description>
-            <link>http://jophiel.co/b9d6dee6-9505-412a-9a23-e36d2aa32657/index.html</link>
-            <guid isPermaLink="false">b9d6dee6-9505-412a-9a23-e36d2aa32657</guid>
-            <pubDate>Thu, 18 Feb 2016 23:01:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
