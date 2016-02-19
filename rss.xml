@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Jophiel Silvestrone]]></title>
-        <description><![CDATA[Jophiel Silvestrone]]></description>
+        <title><![CDATA[Who is Jophiel Silvestrone?]]></title>
+        <description><![CDATA[Who is Jophiel Silvestrone?]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:44:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 00:55:48 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jophiel.co/0bb157cf-1ac4-4ad9-abe4-6523246406c1/index.html</link>
             <guid isPermaLink="false">0bb157cf-1ac4-4ad9-abe4-6523246406c1</guid>
             <pubDate>Fri, 19 Feb 2016 00:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/67020405-087a-472e-8498-910d0f0b3407.jpg">]]></description>
+            <link>http://jophiel.co/0ee34ff8-a2dd-4770-9454-a0778b3e62c9/index.html</link>
+            <guid isPermaLink="false">0ee34ff8-a2dd-4770-9454-a0778b3e62c9</guid>
+            <pubDate>Fri, 19 Feb 2016 00:54:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jophiel.co/b1a0ad36-7e04-41b5-a667-d245ca4f4899/index.html</link>
             <guid isPermaLink="false">b1a0ad36-7e04-41b5-a667-d245ca4f4899</guid>
             <pubDate>Thu, 18 Feb 2016 23:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recommendation from Douglas McShane, Owner / Acorn Technologies]]></title>
-            <description><![CDATA[<article><h1>Recommendation from Douglas McShane, Owner / Acorn Technologies</h1><p>"Without question, one of the sharpest individuals I have had the pleasure of working with. Excellent all-around grasp of the "big 3" for Web: art acumen (the actual design), software use/programming knowledge (the mechanical), and truly understanding the business and message (the communication). Rare combination of talent/skill-sets. I am glad to endorse."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/961f7280e0624b00677c9817845007a78204f89e.jpg"></article>]]></description>
-            <link>http://jophiel.co/ca667f40-d56c-43ff-a77a-9cbf471f235f/index.html</link>
-            <guid isPermaLink="false">ca667f40-d56c-43ff-a77a-9cbf471f235f</guid>
-            <pubDate>Thu, 18 Feb 2016 23:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
