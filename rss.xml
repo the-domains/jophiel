@@ -4,7 +4,7 @@
         <description><![CDATA[Jophiel Silvestrone]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 00:04:02 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://jophiel.co/0bb157cf-1ac4-4ad9-abe4-6523246406c1/index.html</link>
             <guid isPermaLink="false">0bb157cf-1ac4-4ad9-abe4-6523246406c1</guid>
             <pubDate>Thu, 18 Feb 2016 23:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99651525-14c9-48f6-aa49-77b4a7510134.jpg">]]></description>
+            <link>http://jophiel.co/fc857a43-156c-44a4-9005-12dee27bc562/index.html</link>
+            <guid isPermaLink="false">fc857a43-156c-44a4-9005-12dee27bc562</guid>
+            <pubDate>Fri, 19 Feb 2016 00:00:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jophiel.co/3db425fd-c382-483f-8c88-69a3f8c502ac/index.html</link>
             <guid isPermaLink="false">3db425fd-c382-483f-8c88-69a3f8c502ac</guid>
             <pubDate>Thu, 18 Feb 2016 23:08:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e39293b-8a90-463d-98d1-0948c3befc5d.jpg">]]></description>
-            <link>http://jophiel.co/5f392f73-c877-468d-ab60-dfe0274a6b35/index.html</link>
-            <guid isPermaLink="false">5f392f73-c877-468d-ab60-dfe0274a6b35</guid>
-            <pubDate>Thu, 18 Feb 2016 23:04:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
