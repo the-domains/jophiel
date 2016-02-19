@@ -4,7 +4,7 @@
         <description><![CDATA[Hello, I'm Jophiel - CEO/Owner of SkyPoint Studios]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 05:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 05:30:54 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where are you from?]]></title>
@@ -15,6 +15,14 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba88ad7d-0dd0-4c3f-9828-e1c399e3cbce.jpg">]]></description>
+            <link>http://jophiel.co/385266e5-5600-46db-b6be-88c89e8546d6/index.html</link>
+            <guid isPermaLink="false">385266e5-5600-46db-b6be-88c89e8546d6</guid>
+            <pubDate>Fri, 19 Feb 2016 05:30:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I love business! Here are some snippets of my businesses past and present:]]></title>
+            <description><![CDATA[<h1>I love business! Here are some snippets of my businesses past and present:</h1>]]></description>
             <link>http://jophiel.co/94fe4b64-460d-4bb3-a87d-6250b30e7599/index.html</link>
             <guid isPermaLink="false">94fe4b64-460d-4bb3-a87d-6250b30e7599</guid>
             <pubDate>Fri, 19 Feb 2016 05:03:50 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>http://jophiel.co/276f8c60-68ba-4743-aa78-37f22dc35d29/index.html</link>
             <guid isPermaLink="false">276f8c60-68ba-4743-aa78-37f22dc35d29</guid>
             <pubDate>Fri, 19 Feb 2016 00:43:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e8af60f-5123-47e1-8e5b-1a05a873165d.jpg">]]></description>
-            <link>http://jophiel.co/c9327859-015c-4ffc-a624-240d3667eee3/index.html</link>
-            <guid isPermaLink="false">c9327859-015c-4ffc-a624-240d3667eee3</guid>
-            <pubDate>Fri, 19 Feb 2016 00:41:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
