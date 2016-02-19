@@ -4,14 +4,20 @@
         <description><![CDATA[Hello, I'm Jophiel - CEO/Owner of SkyPoint Studios]]></description>
         <link>http://jophiel.co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 04:49:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 05:03:54 GMT</lastBuildDate>
         <atom:link href="http://jophiel.co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Where are you from?]]></title>
-            <description><![CDATA[<article><h1>Where are you from?</h1><p>My name is Jophiel Silvestrone, and I grew up on a ranch in Paradise Valley, Montana near Chico Hot Springs. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/675eda650aa37b5fc5f2459bb9123029195576a1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Where are you from?</h1><p>My name is Jophiel Silvestrone, and I grew up on a ranch in Paradise Valley, Montana near Chico Hot Springs. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/790e0683b22c12efe415400ff122a1e11d2a688a.jpg"></article>]]></description>
             <link>http://jophiel.co/0bb157cf-1ac4-4ad9-abe4-6523246406c1/index.html</link>
             <guid isPermaLink="false">0bb157cf-1ac4-4ad9-abe4-6523246406c1</guid>
             <pubDate>Fri, 19 Feb 2016 04:49:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://jophiel.co/94fe4b64-460d-4bb3-a87d-6250b30e7599/index.html</link>
+            <guid isPermaLink="false">94fe4b64-460d-4bb3-a87d-6250b30e7599</guid>
+            <pubDate>Fri, 19 Feb 2016 05:03:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +74,6 @@
             <link>http://jophiel.co/c9327859-015c-4ffc-a624-240d3667eee3/index.html</link>
             <guid isPermaLink="false">c9327859-015c-4ffc-a624-240d3667eee3</guid>
             <pubDate>Fri, 19 Feb 2016 00:41:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dc5917f-d7fe-428b-8296-fa8f593cdb15.jpg">]]></description>
-            <link>http://jophiel.co/ffece45d-17df-4645-8d26-92b0d6d1e4dc/index.html</link>
-            <guid isPermaLink="false">ffece45d-17df-4645-8d26-92b0d6d1e4dc</guid>
-            <pubDate>Fri, 19 Feb 2016 00:28:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
